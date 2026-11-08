@@ -25,10 +25,11 @@ export function renderAdd(root) {
     <h1>Añadir</h1>
     <div class="tabs">
       <button class="active" data-tab="pdf">Examen completo (PDF + plantilla)</button>
+      <button data-tab="json">Examen en JSON</button>
       <button data-tab="manual">Pregunta suelta</button>
     </div>
     <div id="tab"></div>`;
-  const tabs = { pdf: renderImport, manual: renderManual };
+  const tabs = { pdf: renderImport, json: renderJsonImport, manual: renderManual };
   $$('.tabs button', root).forEach(b => b.onclick = () => {
     $$('.tabs button', root).forEach(x => x.classList.toggle('active', x === b));
     tabs[b.dataset.tab]($('#tab'));
@@ -158,6 +159,125 @@ function renderImport(el) {
       }
     };
   };
+}
+
+// ---------------------------------------------------------------------------
+// Importar examen en JSON (mismo formato que data/exams/*.json)
+// ---------------------------------------------------------------------------
+const slug = s => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
+
+// Valida un examen y lo deja en el formato interno. Lanza un Error si no es usable.
+export function normalizeExamJson(raw, blockIds) {
+  if (!raw || typeof raw !== 'object' || Array.isArray(raw)) throw new Error('No es un objeto de examen.');
+  const name = String(raw.name || '').trim();
+  if (!name) throw new Error('Falta "name".');
+  if (!Array.isArray(raw.questions) || !raw.questions.length) throw new Error(`"${name}": falta la lista "questions".`);
+  const warnings = [];
+  const seen = new Set();
+  const unknownBlocks = new Set();
+  const questions = raw.questions.map((q, i) => {
+    const where = `"${name}", pregunta ${q?.number ?? i + 1}`;
+    if (!q || typeof q.text !== 'string' || !q.text.trim()) throw new Error(`${where}: falta "text".`);
+    if (!Array.isArray(q.options) || q.options.length < 2 || q.options.length > 4 || q.options.some(o => typeof o !== 'string'))
+      throw new Error(`${where}: "options" debe ser una lista de 2 a 4 textos.`);
+    const number = Number.isInteger(q.number) ? q.number : i + 1;
+    if (seen.has(number)) throw new Error(`${where}: número repetido.`);
+    seen.add(number);
+    let answer = q.answer;
+    if (typeof answer === 'string' && /^[a-d]$/i.test(answer.trim())) answer = answer.trim().toLowerCase().charCodeAt(0) - 97;
+    if (!(Number.isInteger(answer) && answer >= 0 && answer < q.options.length)) answer = null;
+    let block = q.block || null;
+    if (block && !blockIds.includes(block)) { unknownBlocks.add(block); block = null; }
+    return {
+      number, text: q.text.trim(), options: q.options.map(o => o.trim()), answer, block,
+      reserve: !!q.reserve, ...(q.annulled ? { annulled: true } : {}), ...(q.source ? { source: String(q.source) } : {}),
+    };
+  }).sort((a, b) => a.number - b.number);
+  const noAnswer = questions.filter(q => q.answer == null).length;
+  if (noAnswer) warnings.push(`${noAnswer} preguntas sin respuesta válida (no saldrán en los tests hasta que la indiques).`);
+  if (unknownBlocks.size) warnings.push(`Bloques desconocidos (${[...unknownBlocks].join(', ')}): esas preguntas quedan "Sin bloque".`);
+  return {
+    exam: {
+      id: String(raw.id || '').trim() || slug(name) || 'u-' + store.uid(),
+      name, date: raw.date || null, ...(raw.ordinary ? { ordinary: raw.ordinary } : {}), questions,
+    },
+    warnings,
+  };
+}
+
+function renderJsonImport(el) {
+  let pending = [];
+  el.innerHTML = `
+    <div class="card">
+      <p>Importa uno o varios exámenes ya convertidos a JSON. Formato:</p>
+      <pre class="small" style="overflow-x:auto;background:var(--surface-2);padding:10px;border-radius:8px">{
+  "id": "2025-a1-madrid-tic",          (opcional)
+  "name": "2025 · Técnico/a Superior TIC (A1)",
+  "date": "2025-06-21",                 (opcional)
+  "questions": [
+    { "number": 1, "text": "Enunciado…",
+      "options": ["opción a", "opción b", "opción c"],
+      "answer": 2,          (0 = a, 1 = b, 2 = c; también vale "c")
+      "block": "b1",        (opcional: ${esc(store.getBlocks().map(b => b.id).join(', '))})
+      "reserve": false }    (opcional)
+  ]
+}</pre>
+      <p class="muted small">También se acepta una lista <code>[ {...}, {...} ]</code> con varios exámenes.</p>
+      <label class="field"><span>Archivos .json</span><input type="file" id="jfiles" accept=".json,application/json" multiple></label>
+      <details class="field"><summary class="small">…o pega el JSON aquí</summary>
+        <textarea id="jtext" rows="8" style="margin-top:8px;font-family:monospace;font-size:.85rem"></textarea>
+        <button class="btn sm" id="jparse" style="margin-top:6px">Leer texto</button>
+      </details>
+      <div id="jresult"></div>
+    </div>`;
+
+  const read = sources => {
+    const blockIds = store.getBlocks().map(b => b.id);
+    const existing = new Map(store.getExams().map(e => [e.id, e]));
+    const errors = [];
+    pending = [];
+    for (const { label, text } of sources) {
+      let data;
+      try { data = JSON.parse(text); } catch (e) { errors.push(`${label}: JSON no válido (${e.message}).`); continue; }
+      for (const raw of Array.isArray(data) ? data : [data]) {
+        try {
+          const r = normalizeExamJson(raw, blockIds);
+          const prev = existing.get(r.exam.id);
+          if (prev?.builtin) r.warnings.push('Ya está incluido en la aplicación: no hace falta importarlo.');
+          else if (prev) r.warnings.push('Ya existe un examen con este id: se reemplazará.');
+          r.skip = !!prev?.builtin;
+          pending.push(r);
+        } catch (e) { errors.push(`${label}: ${e.message}`); }
+      }
+    }
+    draw(errors);
+  };
+
+  const draw = errors => {
+    const toSave = pending.filter(p => !p.skip);
+    $('#jresult').innerHTML = `
+      ${errors.map(e => `<div class="notice bad">${esc(e)}</div>`).join('')}
+      ${pending.length ? `<div class="table-wrap"><table>
+        <thead><tr><th>Examen</th><th class="num">Preg.</th><th class="num">Reserva</th><th>Avisos</th></tr></thead>
+        <tbody>${pending.map(({ exam, warnings }) => `<tr>
+          <td>${esc(exam.name)}<div class="muted small">${esc(exam.id)}${exam.date ? ' · ' + esc(exam.date) : ''}</div></td>
+          <td class="num">${exam.questions.length}</td><td class="num">${exam.questions.filter(q => q.reserve).length}</td>
+          <td class="small">${warnings.map(esc).join('<br>') || '—'}</td></tr>`).join('')}</tbody>
+      </table></div>
+      ${toSave.length ? `<p style="margin-top:12px"><button class="btn primary" id="jsave">Guardar ${toSave.length === 1 ? 'examen' : toSave.length + ' exámenes'}</button></p>` : ''}` : ''}`;
+    $('#jsave') && ($('#jsave').onclick = () => {
+      if (toSave.every(({ exam }) => store.saveExam(exam))) {
+        toast(toSave.length === 1 ? 'Examen guardado' : `${toSave.length} exámenes guardados`);
+        location.hash = '#/bank';
+      }
+    });
+  };
+
+  $('#jfiles').onchange = async e => {
+    const files = [...e.target.files];
+    if (files.length) read(await Promise.all(files.map(async f => ({ label: f.name, text: await f.text() }))));
+  };
+  $('#jparse').onclick = () => read([{ label: 'Texto pegado', text: $('#jtext').value }]);
 }
 
 // ---------------------------------------------------------------------------
