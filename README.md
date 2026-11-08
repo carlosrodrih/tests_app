@@ -10,6 +10,7 @@ Aplicación web para hacer simulacros de test de oposiciones (preguntas a, b, c;
   - Modo *simulacro* (corrección al final) o *práctica* (ves la solución al responder). Atajos de teclado A/B/C y ←/→. El test en curso se guarda si cierras la pestaña.
 - **Añadir**
   - *Examen completo*: sube el PDF del examen y el PDF de la plantilla. La app lee las preguntas y respuestas, propone el bloque de cada pregunta y te deja revisarlo (y asignar bloques por rangos) antes de guardar. Si el PDF es escaneado, pega el texto.
+  - *Examen en JSON*: importa uno o varios exámenes ya convertidos (mismo formato que `data/exams/*.json`; `answer` 0/1/2 o "a"/"b"/"c", `block` y `reserve` opcionales). Se validan y se muestran avisos antes de guardar.
   - *Pregunta suelta*: a mano.
 - **Preguntas**: buscar y filtrar el banco, cambiar bloque o respuesta, marcar anuladas, gestionar bloques.
 - **Estadísticas**: aciertos/fallos/blancos (quesos), reparto de fallos por bloque, rendimiento por bloque, evolución de la nota, preguntas que más fallas e historial.

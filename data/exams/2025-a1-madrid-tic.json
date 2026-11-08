@@ -1,0 +1,1520 @@
+{
+ "id": "2025-a1-madrid-tic",
+ "name": "2025 · Técnico/a Superior TIC Ayto. Madrid (A1) · Acceso libre (conv. 2024)",
+ "date": "2025-06-21",
+ "ordinary": 117,
+ "questions": [
+  {
+   "number": 1,
+   "text": "Según el artículo 3.b de la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI, indique cuál de las siguientes opciones define correctamente la discriminación indirecta:",
+   "options": [
+    "Se produce cuando una persona es tratada de manera menos favorable que otra en una situación comparable por razón de orientación sexual, identidad sexual, expresión de género o características sexuales.",
+    "Se produce cuando una persona sufre discriminación por dos o más causas simultáneamente o de forma consecutiva previstas en la ley.",
+    "Se produce cuando una disposición, criterio o práctica aparentemente neutros ocasiona o puede ocasionar a una o varias personas una desventaja particular con respecto a otras por razón de orientación sexual, identidad sexual, expresión de género o características sexuales."
+   ],
+   "answer": 2,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 2,
+   "text": "Son órganos superiores de las Áreas de Gobierno:",
+   "options": [
+    "Los concejales de Gobierno, concejales de Coordinación, los concejales-delegados, y los Coordinadores Generales.",
+    "Los concejales de Gobierno, concejales de Coordinación y los concejales-delegados.",
+    "Los concejales de Gobierno, concejales de Coordinación, los concejales-delegados, y los Coordinadores Generales y secretarios generales técnicos."
+   ],
+   "answer": 1,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 3,
+   "text": "Las competencias ejecutivas o administrativas de un Distrito y su ejercicio serán realizadas por:",
+   "options": [
+    "La Junta Municipal del Distrito ejercerá en exclusiva las que le correspondan según determine el Pleno.",
+    "La Junta Municipal del Distrito ejercerá las que le correspondan por delegación del alcalde o de la Junta de Gobierno, sin perjuicio de las demás que le atribuya el Pleno.",
+    "El Concejal presidente del Distrito."
+   ],
+   "answer": 1,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 4,
+   "text": "La constitución española de 1978 regula: “El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses”, en su artículo:",
+   "options": [
+    "Artículo 140.",
+    "Artículo 142.",
+    "Artículo 137."
+   ],
+   "answer": 2,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 6,
+   "text": "De acuerdo con el art. 20 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, la Junta de Gobierno Local:",
+   "options": [
+    "Existe en todos aquellos municipios con población superior a 5.000 habitantes, y también en municipios con población inferior a 5.000 habitantes, cuando así lo disponga su Reglamento orgánico o así se acuerde en el Pleno de su ayuntamiento.",
+    "Existe en todos aquellos municipios con población superior a 5.000 habitantes y, en ningún caso, en municipios con población inferior a 5.000 habitantes.",
+    "Existe en todos aquellos municipios con población superior a 5.000 habitantes, y también en municipios con población inferior a 5.000 habitantes, solo cuando así lo disponga su Reglamento orgánico."
+   ],
+   "answer": 0,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 7,
+   "text": "En el régimen disciplinario de los funcionarios, la tipificación de las conductas sancionables ha de determinarse mediante:",
+   "options": [
+    "Se regulan en exclusiva en el TREBEP.",
+    "Ley Básica y ley ordinaria estatal o autonómica.",
+    "Sólo mediante disposición reglamentaria."
+   ],
+   "answer": 1,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 8,
+   "text": "Según la Constitución española de 1978, un Decreto-Ley:",
+   "options": [
+    "Puede ser dictado por el Gobierno, en caso de extraordinaria y urgente necesidad, no pudiendo afectar al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades de los ciudadanos regulados en el Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general; y, además, debe ser sometido a debate y votación del Congreso.",
+    "Puede ser dictado por el Gobierno, en caso de extraordinaria y urgente necesidad, pudiendo afectar al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades de los ciudadanos regulados en el Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general; y, además, no hay necesidad de someterlo a debate y votación del Congreso.",
+    "El Gobierno no puede dictar Decretos-Ley."
+   ],
+   "answer": 0,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 9,
+   "text": "De acuerdo con la Constitución española de 1978, el Consejo General del Poder Judicial está integrado por el Presidente del Tribunal Supremo, y 20 miembros nombrados por el Rey. De estos 20 miembros:",
+   "options": [
+    "12 son de entre Jueces y Magistrados de todas las categorías judiciales; 4 a propuesta del Congreso; y los otros 4 a propuesta del Senado, entre abogados y juristas, todos ellos de reconocida competencia y con más de 15 años de ejercicio en su profesión.",
+    "12 son de entre Jueces y Magistrados de todas las categorías judiciales; y los otros 8 a propuesta del Senado, entre abogados y juristas, todos ellos de reconocida competencia y con más de 15 años de ejercicio en su profesión.",
+    "12 son de entre Jueces y Magistrados de todas las categorías judiciales; y los otros 8 a propuesta del Congreso, entre abogados y juristas, todos ellos de reconocida competencia y con más de 15 años de ejercicio en su profesión."
+   ],
+   "answer": 0,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 10,
+   "text": "En el contrato de suministros en el que la determinación del precio se realice mediante precios unitarios, se podrá incrementar el número de unidades a suministrar sin que sea preciso tramitar el correspondiente expediente de modificación, siempre que así se haya establecido en el pliego de cláusulas administrativas particulares y se haya acreditado la correspondiente financiación en el expediente originario del contrato:",
+   "options": [
+    "Hasta un 25% del precio del contrato.",
+    "Hasta un 10% del precio del contrato.",
+    "Hasta un 5% del precio del contrato."
+   ],
+   "answer": 1,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 11,
+   "text": "NO es un Organismo autónomo:",
+   "options": [
+    "Agencia Tributaria de Madrid.",
+    "Madrid Salud.",
+    "Madrid calle 30."
+   ],
+   "answer": 2,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 12,
+   "text": "Respecto a los contratos del sector público, si el contrato es susceptible de recurso especial en materia de contratación, su formalización:",
+   "options": [
+    "No podrá efectuarse antes de que transcurran cinco días naturales desde que se remita la notificación de la adjudicación a los licitadores y candidatos.",
+    "No podrá efectuarse antes de que transcurran diez días hábiles desde que se remita la notificación de la adjudicación a los licitadores y candidatos.",
+    "No podrá efectuarse antes de que transcurran quince días hábiles desde que se remita la notificación de la adjudicación a los licitadores y candidatos."
+   ],
+   "answer": 2,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 13,
+   "text": "Respecto al ámbito subjetivo de aplicación de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, indica cuál de las siguientes asociaciones privadas NO está sujeta a la citada norma:",
+   "options": [
+    "Una asociación cultural que ha recibido 120.000 euros en subvenciones públicas durante el último año.",
+    "Una asociación juvenil cuyos ingresos anuales ascienden a 10.000 euros, de los cuales 4.200 euros provienen de subvenciones públicas.",
+    "Una asociación deportiva que ha recibido 6.000 euros en subvenciones públicas, que representan el 60 % de sus ingresos anuales."
+   ],
+   "answer": 1,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 14,
+   "text": "Según la Ley de Capitalidad y de Régimen Especial de Madrid, cláusula de atribuciones residual de los órganos de gobierno de la ciudad de Madrid corresponde a:",
+   "options": [
+    "A la Junta de Gobierno y el Pleno.",
+    "Al alcalde y el Pleno.",
+    "A la Junta de Gobierno."
+   ],
+   "answer": 0,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 15,
+   "text": "El Tribunal Económico administrativo de la ciudad de Madrid es:",
+   "options": [
+    "Un organismo con personalidad jurídica independiente integrado en la Administración municipal.",
+    "Creado por la Junta de Gobierno de la Ciudad tras la propuesta del Pleno.",
+    "Un órgano especializado en materia tributaria local que actúa con independencia técnica y funcional, celeridad y gratuidad."
+   ],
+   "answer": 2,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 16,
+   "text": "Marque la respuesta correcta respecto a las aseveraciones sobre la participación de las personas interesadas en un procedimiento que aparecen a continuación:",
+   "options": [
+    "La audiencia a los interesados será posterior a la solicitud del informe del órgano competente para el asesoramiento jurídico o a la solicitud del Dictamen del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, en el caso que éstos formaran parte del procedimiento.",
+    "La incomparecencia durante el período de información pública impedirá a las personas interesadas interponer los recursos procedentes contra la resolución definitiva del procedimiento.",
+    "Los interesados, en un plazo no inferior a diez días ni superior a quince, podrán alegar y presentar los documentos y justificaciones que estimen pertinentes."
+   ],
+   "answer": 2,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 17,
+   "text": "Respecto a los contratos de obras, los órganos de contratación podrán acordar la utilización de un procedimiento abierto simplificado cuando:",
+   "options": [
+    "El valor estimado de la obra sea igual o inferior a 2.000.000 de euros.",
+    "El valor estimado de la obra sea igual o inferior a 1.000.000 de euros.",
+    "En los contratos de obra no cabe la modalidad simplificada del procedimiento abierto."
+   ],
+   "answer": 0,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 18,
+   "text": "Los derechos fundamentales y las libertades públicas en la Constitución española de 1978 se regulan en:",
+   "options": [
+    "Su título I, Capítulo Primero.",
+    "Su título I, Capítulo Segundo, Sección 1ª.",
+    "Su título I, Capítulo Segundo, Sección 2ª."
+   ],
+   "answer": 1,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 19,
+   "text": "En cuanto a la forma de los actos administrativos:",
+   "options": [
+    "Deben ser siempre individuales cualquiera que sea el procedimiento.",
+    "Sólo pueden producirse por escrito.",
+    "Se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia."
+   ],
+   "answer": 2,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 20,
+   "text": "Todo el contenido del Título X, de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, se aplica a:",
+   "options": [
+    "Municipios cuya población supere los 75.000 habitantes.",
+    "Municipios cuya población supere los 250.000 habitantes.",
+    "Municipios cuya población supere los 175.000 habitantes."
+   ],
+   "answer": 1,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 21,
+   "text": "Entre las fases de la metodología RAD (Rapid Application Development) identificadas por James Martin se encuentra:",
+   "options": [
+    "Cutover.",
+    "Estrategia.",
+    "Gestión de riesgos."
+   ],
+   "answer": 0,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 22,
+   "text": "De acuerdo con el capítulo II de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales, los derechos reconocidos son los siguientes:",
+   "options": [
+    "De consulta, de oposición, de cancelación, de rectificación, a la limitación del tratamiento.",
+    "De acceso, de supresión, de rectificación, a la limitación del tratamiento, a la portabilidad, de oposición.",
+    "De acceso, de oposición, de cancelación, de modificación, de desistimiento."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 23,
+   "text": "De acuerdo con la notación de Métrica v3, una entidad externa se representa en un DFD por medio de:",
+   "options": [
+    "Un rectángulo.",
+    "Una elipse.",
+    "Una flecha."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 24,
+   "text": "¿Qué tecnología se utiliza comúnmente para proteger la información durante una transacción en línea?",
+   "options": [
+    "HTML.",
+    "SSL/TLS.",
+    "XML."
+   ],
+   "answer": 1,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 25,
+   "text": "Respecto al uso de las bibliotecas de clases en los lenguajes .NET, es cierto afirmar que:",
+   "options": [
+    "Se facilita y simplifica el acceso a funcionalidades comunes.",
+    "El principal inconveniente de su uso viene marcado por la dificultad que suponen en las pruebas unitarias.",
+    "No se obtiene un beneficio directo en cuanto a la mantenibilidad del código."
+   ],
+   "answer": 0,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 26,
+   "text": "En una red de telecomunicaciones, ¿cuál de las siguientes afirmaciones describe correctamente una ventaja de la conmutación de paquetes frente a la conmutación de circuitos, especialmente en el contexto de servicios con requisitos de calidad de servicio (QoS) variable?",
+   "options": [
+    "La conmutación de circuitos permite un uso más eficiente del ancho de banda al multiplexar múltiples flujos en un canal dedicado.",
+    "La conmutación de paquetes garantiza un retardo constante y ancho de banda reservado, lo que la hace ideal para servicios en tiempo real como VoIP.",
+    "La conmutación de paquetes permite una mejor utilización de la red al compartir dinámicamente los recursos, aunque introduce variabilidad en el retardo (jitter)."
+   ],
+   "answer": 2,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 27,
+   "text": "¿Cuál es la principal característica de Linux que lo hace atractivo para el sector empresarial en términos de costes operativos?",
+   "options": [
+    "La ausencia de licencias de software propietario reduce significativamente los costes de propiedad total (TCO).",
+    "Solamente Linux puede ejecutar aplicaciones empresariales críticas para negocio.",
+    "El hardware para Linux es más barato que para otros sistemas operativos."
+   ],
+   "answer": 0,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 28,
+   "text": "¿Cuál de los siguientes patrones es más útil en una arquitectura basada en microservicios?",
+   "options": [
+    "Patrón Localizador de Servicios.",
+    "Patrón Repositorio.",
+    "Patrón Saga."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 29,
+   "text": "¿Cuál de las siguientes afirmaciones es correcta?",
+   "options": [
+    "IPv6 elimina el uso de NAT gracias a su amplio espacio de direcciones, a diferencia de IPv4.",
+    "IPv4 utiliza direcciones de 128 bits, mientras que IPv6 utiliza direcciones de 64 bits.",
+    "IPv4 permite la autoconfiguración sin estado (SLAAC), mientras que IPv6 requiere siempre un servidor DHCP."
+   ],
+   "answer": 0,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 30,
+   "text": "Los Indicadores Clave de Rendimiento (KPI) son métricas esenciales para evaluar el retorno de inversión (ROI) en tecnología empresarial. ¿Cuál de los siguientes NO podría considerarse un KPI relevante para el ROI en los proyectos tecnológicos?",
+   "options": [
+    "Número de errores corregidos.",
+    "Reducción de costes operativos.",
+    "Aumento de la productividad."
+   ],
+   "answer": 0,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 31,
+   "text": "En la Estrategia Nacional de Ciberseguridad (BOE 30 de abril de 2019), dentro de la arquitectura orgánica de la ciberseguridad en España ¿Cuál es la responsabilidad asignada al Consejo Nacional de Ciberseguridad?",
+   "options": [
+    "Facilitar la coordinación interministerial a nivel operacional en el ámbito de la ciberseguridad.",
+    "Fomentar las relaciones de coordinación, colaboración y cooperación entre Administraciones Públicas.",
+    "Actuar en la potenciación y creación de sinergias público privadas, particularmente en la generación de conocimiento sobre las oportunidades y los desafíos y amenazas a la seguridad en el ciberespacio."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 32,
+   "text": "¿Cuáles de los siguientes tipos de errores en el código NO es posible detectar con las pruebas unitarias?",
+   "options": [
+    "Errores de compatibilidad.",
+    "Errores de manejo de excepciones.",
+    "Errores de regresión."
+   ],
+   "answer": 0,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 33,
+   "text": "En gestión del conocimiento, ¿qué es una taxonomía?",
+   "options": [
+    "Una Base de datos que almacena metadatos descriptivos de documentos.",
+    "Un sistema jerárquico de etiquetado libre.",
+    "Una clasificación jerárquica de conceptos y categorías de un dominio."
+   ],
+   "answer": 2,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 34,
+   "text": "¿Qué tecnología se utiliza en redes 5G para proteger la capa física frente a escuchas?",
+   "options": [
+    "Ipsec.",
+    "WBPLSec.",
+    "DAC-TLS."
+   ],
+   "answer": 1,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 35,
+   "text": "A la hora de evaluar las opciones disponibles en relación al equipamiento informático suele ser útil realizar un proceso de benchmarking. Señale la afirmación correcta:",
+   "options": [
+    "La disponibilidad de un sistema informático se puede cuantificar por técnicas de procesamiento de lenguaje natural.",
+    "SPEC es una organización que crea benchmarks para medir el rendimiento de ordenadores y publicar el resultado de los tests.",
+    "Las técnicas sintéticas buscan vincular pruebas de rendimiento de terceros para sintetizar el resultado en una única prueba."
+   ],
+   "answer": 1,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 36,
+   "text": "¿Cuál es el propósito principal de un Data Mart dentro de una arquitectura de datos empresarial?",
+   "options": [
+    "Servir como repositorio central de todos los datos de la organización.",
+    "Proporcionar acceso rápido y específico a datos relevantes para un departamento o unidad de negocio.",
+    "Almacenar datos no estructurados para análisis exploratorio."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 37,
+   "text": "Una característica de las granjas de servidores orientadas al alto rendimiento (HPC - High Performance Computing) es que:",
+   "options": [
+    "Por lo general, tienen un diseño multinodo con una arquitectura activo-pasivo.",
+    "Utilizan una red de alta velocidad para interconectar sus nodos.",
+    "No necesitan de ningún elemento de balanceo de cargas."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 38,
+   "text": "¿Cuál de las siguientes NO es una solución de servicios de identidad y directorio?",
+   "options": [
+    "AWS Direct Connect.",
+    "Microsoft Entra ID.",
+    "Google Cloud Identity / Directory."
+   ],
+   "answer": 0,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 39,
+   "text": "¿Cuál de los siguientes NO es un framework para el desarrollo de aplicaciones basadas en la plataforma Java EE (Jakarta EE)?",
+   "options": [
+    "Quarkus.",
+    "Django.",
+    "Hibernate."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 40,
+   "text": "En el contexto de realización de un benchmarking para evaluar el comportamiento y el rendimiento de un sistema informático, ¿cuál sería la definición correcta de overhead?",
+   "options": [
+    "Cantidad fija de tiempo de CPU que se asigna a un trabajo antes de que el planificador lo interrumpa.",
+    "Porcentaje de tiempo o recursos consumidos por tareas no directamente imputables al procesamiento del sistema evaluado.",
+    "Máxima cantidad de trabajo útil que un sistema es capaz de procesar por unidad de tiempo."
+   ],
+   "answer": 1,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 41,
+   "text": "¿Cuál de las siguientes es una característica que define a una ciudad con gobernanza inteligente?",
+   "options": [
+    "Uso exclusivo de datos históricos.",
+    "Participación activa de la ciudadanía en la toma de decisiones.",
+    "Eliminación de los canales presenciales de atención a la ciudadanía."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 42,
+   "text": "Según la norma ISO 20000, ¿qué elemento es obligatorio para demostrar la mejora continua de un Sistema de Gestión de Servicios?",
+   "options": [
+    "Encuestas de satisfacción de los usuarios.",
+    "Reuniones informales del equipo de implantación del proyecto.",
+    "Auditorías internas periódicas."
+   ],
+   "answer": 2,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 43,
+   "text": "Señale la afirmación INCORRECTA referente a la técnica de integración continua en el desarrollo de aplicaciones:",
+   "options": [
+    "Uno de los elementos clave de la integración continua es la automatización de las pruebas unitarias.",
+    "Los desarrolladores no deben realizar un commit sin ejecutar pruebas unitarias en su entorno local.",
+    "Debe utilizarse un sistema de control de versiones descentralizado para mantener en todo momento versiones del código independientes."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 44,
+   "text": "De las siguientes ¿Qué herramientas están específicamente diseñadas para el desarrollo de proyectos colaborativos y ágiles?",
+   "options": [
+    "Sharepoint o Google Workspace.",
+    "Zoom o Teams.",
+    "Jira, Trello o Azure Devops."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 45,
+   "text": "Seleccione un principio fundamental en la estrategia de un directivo de tecnologías de la información en la administración pública:",
+   "options": [
+    "Delegar los aspectos relacionados con la ciberseguridad en el CISO o figura equivalente, para evitar conflictos de competencias.",
+    "Asegurar la capacitación continua de todo el personal de la organización en nuevas tecnologías.",
+    "Consolidar la normativa relativa a las tecnologías de la información que afecte a su organismo."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 46,
+   "text": "La fundación sin ánimo de lucro OWASP tiene como objetivo la mejora de la seguridad del software a través de la ejecución de una serie de proyectos. Es correcto afirmar que su proyecto OWASP Top 10 representa:",
+   "options": [
+    "Un ranking de las vulnerabilidades más críticas en aplicaciones web.",
+    "Un sistema de gestión de vulnerabilidades empresariales.",
+    "Un listado de los 10 lenguajes de programación más seguros."
+   ],
+   "answer": 0,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 47,
+   "text": "Señale la afirmación correcta respecto al proceso de Implantación y Aceptación del Sistema (IAS) de Métrica 3:",
+   "options": [
+    "Las pruebas de implantación cubren aspectos como los tiempos de respuesta, pero no otros como los procedimientos de respaldo.",
+    "Dentro de este proceso se fija el nivel con el que se prestará el servicio como indicador de su calidad.",
+    "Las pruebas de implantación y aceptación pueden ejecutarse en un entorno de pruebas previo al real de operación."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 48,
+   "text": "Los microservicios son un enfoque de arquitectura del software que se caracteriza por:",
+   "options": [
+    "Simplificar los procesos de monitorización y depuración.",
+    "Unificar lenguajes y frameworks utilizados para el desarrollo.",
+    "Mejorar la resiliencia de la aplicación."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 49,
+   "text": "En gestión del conocimiento, ¿qué es una folksonomía?",
+   "options": [
+    "Una Base de datos que almacena metadatos descriptivos de documentos.",
+    "Un sistema de etiquetado libre.",
+    "Una clasificación jerárquica de conceptos y categorías de un dominio."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 50,
+   "text": "Según el Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, ¿qué duración tienen los derechos de explotación de un programa informático?",
+   "options": [
+    "Cuando el autor sea una persona física la duración de los derechos será de setenta años, computados desde el día 1 de enero del año siguiente al de la divulgación lícita del programa o al de su creación si no se hubiera divulgado.",
+    "Cuando el autor sea una persona jurídica la duración de los derechos será de setenta años, computados desde el día 1 de enero del año siguiente al de la divulgación lícita del programa o al de su creación si no se hubiera divulgado.",
+    "Cuando el autor sea una persona física conocida durarán toda la vida del autor y cincuenta años después de su muerte o declaración de fallecimiento."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 51,
+   "text": "En relación con la configuración de la seguridad de las aplicaciones web, indique cuál es la afirmación correcta:",
+   "options": [
+    "Se debe filtrar cualquier contenido recibido por el usuario que tenga validez en el lenguaje HTML e incluso los caracteres para la creación de etiquetas HTML.",
+    "Es muy recomendable disponer de un Firewall de aplicaciones (WAF) detrás del servidor web de tal manera que monitorice y filtre las peticiones maliciosas tras ser recibidas en el servidor de aplicaciones.",
+    "Las comunicaciones entre el navegador web y el servidor web es importante que sean por HTTPS, siendo preferible SSL frente a TLS ya que éste se encuentra obsoleto debido a vulnerabilidades conocidas."
+   ],
+   "answer": 0,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 52,
+   "text": "¿Cuál de las siguientes medidas puede utilizarse para cuantificar la rentabilidad de los proyectos tecnológicos?",
+   "options": [
+    "Número de errores detectados en las pruebas de regresión.",
+    "Porcentaje del proyecto dedicado a análisis de requisitos.",
+    "Periodo de Recuperación de la Inversión."
+   ],
+   "answer": 2,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 53,
+   "text": "De acuerdo con la Norma Técnica de Interoperabilidad de Protocolos de intermediación de datos:",
+   "options": [
+    "Para garantizar la trazabilidad de los intercambios producidos, se asociará a cada petición o consulta un identificador único.",
+    "La información almacenada para la trazabilidad de cada consulta o intercambio contemplará al menos el nombre del sistema de información que realiza la consulta.",
+    "El rol de la Plataforma de intermediación almacenará información personal de los ciudadanos derivadas de todas las transacciones de intercambio de datos."
+   ],
+   "answer": 0,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 54,
+   "text": "Señale qué norma podría aplicarse en el análisis de aspectos no funcionales:",
+   "options": [
+    "ISO/IEC 25000.",
+    "ISO/IEC 41001.",
+    "ISO/IEC 45001."
+   ],
+   "answer": 0,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 55,
+   "text": "¿Cuál de las siguientes respuestas es correcta en cuanto a que requiere de un sistema de aprendizaje no supervisado?",
+   "options": [
+    "Análisis de imágenes para detección de entidades.",
+    "Agrupamiento de la ciudadanía en función de sus necesidades.",
+    "Clasificador de sugerencias y reclamaciones ciudadanas para su remisión a la unidad responsable de su tramitación."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 56,
+   "text": "La integración continua es un proceso de desarrollo de software en el que los desarrolladores integran el nuevo código que han escrito con mayor frecuencia a lo largo del ciclo de desarrollo. Entre sus beneficios se incluye:",
+   "options": [
+    "Centralizar el tratamiento de errores del código en una fase posterior del desarrollo.",
+    "Encapsular las pruebas de seguridad en un equipo independiente.",
+    "Facilitar la colaboración del equipo, detectando rápidamente los conflictos de código."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 57,
+   "text": "¿Cuál de los siguientes es el lenguaje de programación oficial para realizar desarrollos para el sistema operativo Android?",
+   "options": [
+    "Swift.",
+    "C++.",
+    "Kotlin."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 58,
+   "text": "¿Cuál de las siguientes afirmaciones sobre el acceso al medio en redes IEEE 802.11 es correcta?",
+   "options": [
+    "El mecanismo CSMA/CA (Carrier Sense Multiple Access with Collision Avoidance) se utiliza en IEEE 802.11 para minimizar colisiones, ya que no es posible detectarlas directamente en el medio inalámbrico.",
+    "El estándar IEEE 802.11 utiliza CSMA/CD (Carrier Sense Multiple Access with Collision Detection) como método de acceso al medio, igual que Ethernet.",
+    "En el modo infraestructura, todos los dispositivos inalámbricos se comunican directamente entre sí sin necesidad de un punto de acceso."
+   ],
+   "answer": 0,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 59,
+   "text": "¿Cuál de las bandas de frecuencia se ha añadido para su uso con WiFi 6E (IEEE 802.11ax)?",
+   "options": [
+    "7 GHz.",
+    "6 GHz.",
+    "2,5 GHz."
+   ],
+   "answer": 1,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 60,
+   "text": "¿Qué es RAID 5 en sistemas de altas prestaciones?",
+   "options": [
+    "Una configuración de discos en la que dos discos contienen la misma información replicada.",
+    "Una configuración de discos con paridad distribuida que permite el fallo de un disco.",
+    "Una configuración de discos sin paridad distribuida que se enfoca en el rendimiento."
+   ],
+   "answer": 1,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 61,
+   "text": "¿Qué metodologías de diseño ponen al usuario en el centro del proceso de desarrollo de un sistema de información?",
+   "options": [
+    "Diseño centrado en los requisitos de negocio.",
+    "Diseño centrado en los usuarios.",
+    "Desarrollo rápido de aplicaciones."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 62,
+   "text": "El protocolo OCSP (Online Certificate Status Protocol) se emplea para:",
+   "options": [
+    "Consultar la revocación de un certificado.",
+    "Emitir certificados electrónicos.",
+    "Identificarse mediante certificado electrónico."
+   ],
+   "answer": 0,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 63,
+   "text": "El lote del AM 02/2023 para el suministro de ordenadores de mesa, ordenadores portátiles, monitores y otras soluciones de puesto de trabajo, por el que se licitó el suministro de monitores de 27 pulgadas es:",
+   "options": [
+    "3.",
+    "6.",
+    "9."
+   ],
+   "answer": 2,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 64,
+   "text": "¿Cuál de los siguientes es un servicio ofrecido por la Plataforma de Contratación del Sector Público a los órganos de contratación?",
+   "options": [
+    "Elaboración de informes fiscales.",
+    "Sellado de tiempo de los documentos publicados.",
+    "Gestión de pago a los proveedores."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 65,
+   "text": "¿Qué autoridad supervisa a los prestadores de servicios electrónicos de confianza?",
+   "options": [
+    "La Agencia Española de Protección de Datos (AEPD).",
+    "El Ministerio de Asuntos Económicos y Transformación Digital.",
+    "La Fábrica Nacional de Moneda y Timbre (FNMT)."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 66,
+   "text": "¿Qué función principal cumple una pasarela de pago en una tienda online?",
+   "options": [
+    "Generar facturas electrónicas para los clientes.",
+    "Almacenar los datos de pago en la nube.",
+    "Procesar de forma segura los pagos entre el cliente y el comerciante."
+   ],
+   "answer": 2,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 67,
+   "text": "¿Cuál es el principal propósito de la gestión de la configuración en ITIL v4?",
+   "options": [
+    "Planificar y coordinar los recursos para el despliegue de versiones en los entornos de producción.",
+    "Definir la estrategia de servicios de una organización.",
+    "Asegurar que los activos de un servicio se mantengan de manera precisa."
+   ],
+   "answer": 2,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 68,
+   "text": "De entre las siguientes opciones, seleccione la que NO identifica una implementación de la plataforma .NET",
+   "options": [
+    "NetSphere",
+    "UWP",
+    "Mono"
+   ],
+   "answer": 0,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 69,
+   "text": "Sobre el framework de desarrollo Xamarin, ¿cuál de las siguientes afirmaciones es correcta?",
+   "options": [
+    "Es un framework de desarrollo híbrido para Android, iOS y Windows usando C# y .NET.",
+    "Es un framework de desarrollo nativo para iOS usando Swift.",
+    "Es un framework de desarrollo híbrido para iOS y Android, usando Swift y Java."
+   ],
+   "answer": 0,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 70,
+   "text": "En un Data Warehouse, ¿qué ventaja ofrece el esquema en estrella sobre el esquema copo de nieve en términos de rendimiento de consulta?",
+   "options": [
+    "El esquema en estrella mejora el rendimiento al reducir la cantidad de uniones necesarias.",
+    "El esquema en estrella requiere más uniones que el copo de nieve.",
+    "Ambos esquemas tienen el mismo rendimiento porque usan las mismas estructuras."
+   ],
+   "answer": 0,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 71,
+   "text": "El DFD es un diagrama para:",
+   "options": [
+    "Modelado de procesos.",
+    "Modelado de dominio.",
+    "Gestión de riesgos."
+   ],
+   "answer": 0,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 72,
+   "text": "En teletrabajo, ¿qué medida de seguridad es esencial para acceder a recursos corporativos?",
+   "options": [
+    "Autenticación con usuario y contraseña.",
+    "Conexión mediante protocolos de escritorio remoto.",
+    "Acceso mediante VPN y autenticación multifactor."
+   ],
+   "answer": 2,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 73,
+   "text": "Sobre el framework híbrido de desarrollo de aplicaciones para dispositivos móviles, React Native, ¿cuál de las siguientes afirmaciones NO es correcta?",
+   "options": [
+    "Permite desarrollar aplicaciones móviles para iOS y Android usando JavaScript y React.",
+    "Permite desarrollar aplicaciones móviles para iOS y Android usando una sola base de código fuente.",
+    "Permite desarrollar aplicaciones multiplataforma (web, escritorio, móvil) usando una sola base de código fuente."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 74,
+   "text": "Según se establece en el Esquema Nacional de Interoperabilidad, la interoperabilidad semántica es:",
+   "options": [
+    "Aquella dimensión de la interoperabilidad relativa a que la información intercambiada pueda ser interpretable de forma automática y reutilizable por aplicaciones que no intervinieron en su creación.",
+    "Aquella dimensión de la interoperabilidad relativa a la capacidad de las entidades y de los procesos a través de los cuales llevan a cabo sus actividades para colaborar con el objeto de alcanzar logros mutuamente acordados relativos a los servicios que prestan.",
+    "Aquella dimensión de la interoperabilidad relativa a la relación entre sistemas y servicios de tecnologías de la información, incluyendo aspectos tales como las interfaces, la interconexión, la integración de datos y servicios, la presentación de la información, la accesibilidad y la seguridad, u otros de naturaleza análoga."
+   ],
+   "answer": 0,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 75,
+   "text": "En una IDE, ¿qué es esencial para localizar datos espaciales?",
+   "options": [
+    "El visor de mapas.",
+    "El catálogo de metadatos.",
+    "El editor de polígonos."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 76,
+   "text": "¿Qué es la gobernanza de datos en organizaciones basadas en datos?",
+   "options": [
+    "La determinación de responsables de datos de carácter personal.",
+    "El marco de políticas, roles y procedimientos de todos los datos de la organización.",
+    "El marco de políticas, roles y procedimientos de publicación de datos abiertos."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 77,
+   "text": "¿Qué es WAI-ARIA 1.2?",
+   "options": [
+    "Es un conjunto de directrices y pautas para diseñar herramientas de creación de contenido web que sean tanto más accesibles para autores con discapacidades, como diseñadas para permitir, apoyar y promover la producción de contenido web más accesible por parte de todos los autores.",
+    "Son un conjunto de pautas de accesibilidad para el contenido web, que se aplican al contenido dinámico, multimedia, “móvil”, etc.",
+    "Es una especificación técnica que proporciona un marco semántico para mejorar la accesibilidad de contenido y aplicaciones web, especialmente aquellas con interfaces ricas e interactivas."
+   ],
+   "answer": 2,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 78,
+   "text": "¿Qué ocurre si el adjudicatario de un contrato con una administración pública incumple los niveles de servicio establecidos?",
+   "options": [
+    "Se le podría denegar la prórroga a la finalización del contrato.",
+    "El contrato se resuelve automáticamente sin necesidad de ningún trámite adicional.",
+    "Se le pueden aplicar descuentos al importe de facturación y, en su caso, penalidades contractuales."
+   ],
+   "answer": 2,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 79,
+   "text": "Según la definición del NIST - National Institute of Standards and Technology, una nube privada es aquella que:",
+   "options": [
+    "No está abierta a su uso público, siendo necesario para ello establecer un contrato o acuerdo con su proveedor.",
+    "Sus tarifas no son públicas, y varían según el cliente.",
+    "Se provisiona para el uso exclusivo de una organización."
+   ],
+   "answer": 2,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 81,
+   "text": "Según IEEE Software Engineering Body of Knowledge (SWEBOK), ¿qué representa un área de conocimiento (KA)?",
+   "options": [
+    "Una agrupación de procesos y actividades centradas exclusivamente en la gestión de proyectos.",
+    "Un área temática con procesos, prácticas y técnicas asociadas.",
+    "Un conjunto de herramientas de programación."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 82,
+   "text": "Respecto a los modelos y técnicas de recuperación de la información, seleccione la opción correcta:",
+   "options": [
+    "El modelo booleano se basa en representar cada documento como un punto en el espacio formado por todos los términos de índice.",
+    "En el modelo booleano extendido se trata de introducir la ordenación por relevancia relajando las condiciones para pertenecer al conjunto resultado.",
+    "En el modelo vectorial sólo tiene en cuenta la aparición de un término de índice o su ausencia dentro de un documento."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 83,
+   "text": "De acuerdo con la norma ETSI EN 300 392-1, en los sistemas TETRA, se denomina DTE a:",
+   "options": [
+    "El modo de transmisión directo.",
+    "La frecuencia portadora.",
+    "Un equipo de datos."
+   ],
+   "answer": 2,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 84,
+   "text": "¿Qué es el \"gradiente\" en el contexto del descenso por gradiente?",
+   "options": [
+    "El vector de derivadas parciales que indica la dirección y la magnitud del mayor aumento de una función multivariable.",
+    "La derivada segunda de la función de pérdida con respecto a los parámetros del modelo, y que se relaciona con la curvatura de dicha función.",
+    "El valor mínimo de la función objetivo."
+   ],
+   "answer": 0,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 85,
+   "text": "Señale la respuesta correcta en relación con la metodología XP:",
+   "options": [
+    "Fue creada por Jeff Sutherland.",
+    "Una de sus reglas es que el cliente no siempre está disponible.",
+    "Uno de sus valores es el respeto."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 86,
+   "text": "Dentro del modelo de computación en nube, una base de datos gestionada se considera un servicio de tipo:",
+   "options": [
+    "IaaS.",
+    "SaaS.",
+    "PaaS."
+   ],
+   "answer": 2,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 88,
+   "text": "Según ITIL, ¿qué criterio se utiliza para asignar la prioridad a una incidencia?",
+   "options": [
+    "El número de usuarios afectados únicamente.",
+    "La urgencia y el impacto.",
+    "El tipo de tecnología implicada."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 89,
+   "text": "¿Cuál de las siguientes características es obligatoria en el DNI 3.0 conforme al Reglamento (UE) 2019/1157 y su implementación en España?",
+   "options": [
+    "La inclusión de un chip únicamente de contacto, sin capacidad de comunicación inalámbrica.",
+    "La impresión del código del Estado miembro (por ejemplo, \"ES\") en el anverso, dentro de un rectángulo azul rodeado de doce estrellas amarillas.",
+    "La expedición del documento exclusivamente en formato digital para su uso en dispositivos móviles."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 90,
+   "text": "De acuerdo con la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales, disponer de un Registro de actividades de tratamiento que no incorpore toda la información exigida por el artículo 30 del Reglamento (UE) 2016/679 se considera una infracción de tipo:",
+   "options": [
+    "Leve.",
+    "Grave.",
+    "Muy grave."
+   ],
+   "answer": 0,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 91,
+   "text": "¿Cuáles de las siguientes son herramientas de gestión de conocimiento empresarial?",
+   "options": [
+    "Confluence o Sharepoint.",
+    "Git o Mercurial.",
+    "Photoshop o Illustrator."
+   ],
+   "answer": 0,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 92,
+   "text": "¿Cuál de los siguientes elementos forma parte del Modelo de madurez de gestión del cambio de Prosci?",
+   "options": [
+    "Estandarización.",
+    "Concienciación.",
+    "Institucionalización."
+   ],
+   "answer": 0,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 93,
+   "text": "En técnicas de negociación comercial, ¿qué es el \"anclaje\"?",
+   "options": [
+    "Establecer el resultado definitivo en una negociación.",
+    "Establecer el primer punto de referencia que influye en las negociaciones posteriores.",
+    "El método por el que se van documentando los acuerdos que se van alcanzando."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 94,
+   "text": "En un diagrama de despliegue, el elemento principal es:",
+   "options": [
+    "Entidad.",
+    "Nodo.",
+    "Proceso."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 95,
+   "text": "¿Qué ventaja ofrece una base de datos NoSQL de tipo columnar para análisis de datos?",
+   "options": [
+    "Mejor rendimiento en operaciones de escritura masiva.",
+    "Mayor velocidad en consultas que involucran muchas filas, pero pocas columnas.",
+    "Facilidad para implementar relaciones complejas entre entidades."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 96,
+   "text": "En el contexto del establecimiento de un plan de sistemas de información, la alineación estratégica hace referencia a:",
+   "options": [
+    "Establecimiento de alianzas estratégicas con otras organizaciones.",
+    "Alinear los objetivos con los de la organización.",
+    "Seleccionar las tecnologías con las tendencias del mercado."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 97,
+   "text": "Seleccione la definición correcta relacionada con las soluciones tecnológicas para los registros electrónicos.",
+   "options": [
+    "ORVE es un servicio de administración electrónica en la nube ofrecido a todas las Administraciones Públicas que permite digitalizar el papel que presenta el ciudadano en las oficinas de registro y enviarlo electrónicamente al destino.",
+    "SICRES es una solución integral de registro que funciona en modo nube para prestar el servicio para cualquier organismo público, que cubre tanto la gestión de sus oficinas de registro como la recepción y envío de registros en las unidades tramitadoras destinatarias de la documentación.",
+    "GEISER es la infraestructura básica que permite el intercambio de asientos electrónicos de registro en las Administraciones Públicas."
+   ],
+   "answer": 0,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 98,
+   "text": "Según recoge el Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público:",
+   "options": [
+    "Las entidades obligadas deberán cumplir los requisitos de accesibilidad recogidos en el real decreto, sin excepción.",
+    "Las entidades responsables deben proporcionar una declaración de accesibilidad detallada, exhaustiva y clara sobre la conformidad de sus respectivos sitios web con lo dispuesto en el real decreto, sin que este precepto aplique como tal a las aplicaciones para dispositivos móviles.",
+    "Las entidades obligadas deberán ofrecer a las personas usuarias un mecanismo de comunicación que permita a cualquier persona presentar sugerencias y quejas."
+   ],
+   "answer": 2,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 99,
+   "text": "¿Cuál de los siguientes elementos forma parte de la arquitectura de red IP y es responsable de determinar la mejor ruta para enviar paquetes entre redes?",
+   "options": [
+    "El router.",
+    "El servidor DNS.",
+    "El switch."
+   ],
+   "answer": 0,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 100,
+   "text": "¿Qué componente actúa como intermediario entre los sistemas operativos y los dispositivos físicos en un entorno de almacenamiento virtualizado?",
+   "options": [
+    "Controlador de dispositivo.",
+    "Controlador de red.",
+    "Hipervisor de almacenamiento."
+   ],
+   "answer": 2,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 101,
+   "text": "En el contexto de la plataforma de desarrollo .NET, seleccione la opción que NO corresponde a un componente encargado de traducir el IL (Intermediate Language) a código máquina.",
+   "options": [
+    "JIT",
+    "AOT",
+    "BCL"
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 102,
+   "text": "¿Cuál de los siguientes datos forma parte de un Análisis de Impacto sobre el Negocio (Business Impact Analysis - BIA)?",
+   "options": [
+    "Tiempo mínimo tolerable de caída o MTD (Minimum Tolerable Downtime).",
+    "Punto de operación revisado o RPO (Revised Point of Operation).",
+    "Objetivo de tiempo de recuperación o RTO (Recovery Time Objective)."
+   ],
+   "answer": 2,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 103,
+   "text": "La dirección estratégica es un proceso secuencial que abarca:",
+   "options": [
+    "La planificación estratégica, su implementación, su control y el compromiso político.",
+    "La planificación estratégica, su implementación y su control.",
+    "Conlleva todo lo anterior y un riguroso control de existencias."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 104,
+   "text": "De las siguientes técnicas expuestas, cuál sería por sí sola más efectiva para la prevención de ataques de tipo Cross-Site-Scripting (XSS):",
+   "options": [
+    "Validación de los datos desde el lado del cliente mediante Javascript.",
+    "Validación de datos desde el lado del servidor.",
+    "Validación de datos con chequeo de integridad mediante firmas digitales."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 105,
+   "text": "¿Qué tipo de lenguaje permite definir la estructura de una base de datos?",
+   "options": [
+    "Lenguaje de Definición de Datos (LDD).",
+    "Lenguaje de Manipulación de Datos (LMD).",
+    "Lenguaje de Control de Transacciones (LCT)."
+   ],
+   "answer": 0,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 106,
+   "text": "El Directivo público es personal de designación política en cada Administración pública.",
+   "options": [
+    "Sí, en todas las Administraciones a excepción de la Administración General del Estado.",
+    "No, se adquiere esta condición después de un procedimiento de concurrencia y público.",
+    "Ninguna de las anteriores es correcta."
+   ],
+   "answer": 1,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 107,
+   "text": "Según el artículo 12 de la Ley 27/2022 de evaluación de políticas públicas, ¿qué tipos de indicadores debe incluir obligatoriamente el sistema de información para el seguimiento y evaluación?",
+   "options": [
+    "Indicadores financieros y de costes basados en el sistema contable de la organización.",
+    "Indicadores de realización, resultados e impacto basados en un sistema de información fiable.",
+    "Indicadores de satisfacción ciudadana."
+   ],
+   "answer": 1,
+   "block": "b1",
+   "reserve": false
+  },
+  {
+   "number": 108,
+   "text": "¿Cuál es el principal objetivo de las pruebas de aceptación?",
+   "options": [
+    "Validar que las funcionalidades son las adecuadas.",
+    "Validar con los usuarios que están satisfechos con la implementación realizada.",
+    "Validar que se han cubierto todos los requisitos definidos."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 109,
+   "text": "¿Cuál de los siguientes NO es un objetivo de las pruebas de carga?",
+   "options": [
+    "Detectar errores de servidor (500, 503, etc.)",
+    "Detectar errores de fugas de memoria.",
+    "Detectar errores de seguridad por inyección de código."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 110,
+   "text": "En qué consiste el teorema del \"no almuerzo gratis\" (No Free Lunch Theorem)",
+   "options": [
+    "Que los modelos con más parámetros siempre generalizan mejor.",
+    "Que no existe un algoritmo de aprendizaje que funcione mejor en todos los casos.",
+    "Que todos los modelos tienen el mismo error de entrenamiento."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 111,
+   "text": "La resistencia al fallo es un tipo de medida de:",
+   "options": [
+    "Rendimiento.",
+    "Usabilidad.",
+    "Fiabilidad."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 112,
+   "text": "¿Cuál de los siguientes NO es un principio básico definido en el Esquema Nacional de Seguridad (ENS)?",
+   "options": [
+    "Vigilancia continua.",
+    "Reevaluación periódica.",
+    "Gestión de la seguridad basada en las amenazas."
+   ],
+   "answer": 2,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 113,
+   "text": "En BPMN un rombo de control pertenece a la categoría de:",
+   "options": [
+    "Objetos de conexión.",
+    "Objetos de flujo.",
+    "Artefactos."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 114,
+   "text": "¿Qué característica distingue a un sistema SAN (Storage Area Network)?",
+   "options": [
+    "Proporciona acceso a nivel de bloque a través de una red dedicada.",
+    "Utiliza protocolos como NFS o SMB.",
+    "Solo funciona con discos SSD."
+   ],
+   "answer": 0,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 115,
+   "text": "En relación con el modelo de clases, las operaciones que una clase puede realizar se corresponden con:",
+   "options": [
+    "Los atributos.",
+    "Las relaciones.",
+    "Los métodos."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 116,
+   "text": "En el sistema de orquestación de contenedores Kubernetes:",
+   "options": [
+    "Cada contenedor agrupa un conjunto de pods.",
+    "No es estrictamente necesario utilizar máquinas virtuales, existe la posibilidad de despliegue directo sobre máquinas físicas (bare metal Kubernetes).",
+    "Cada nodo master dispone de un agente denominado Kubelet que ejecuta las órdenes de los nodos worker."
+   ],
+   "answer": 1,
+   "block": "b4",
+   "reserve": false
+  },
+  {
+   "number": 117,
+   "text": "¿Cuál es uno de los ocho pasos del modelo de John P. Kotter para liderar el cambio organizacional?",
+   "options": [
+    "Diagnóstico de la necesidad de cambio.",
+    "Reclutar un ejército voluntario.",
+    "Navegar la zona neutra."
+   ],
+   "answer": 1,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 118,
+   "text": "Entre los principios de la metodología Lean, enunciados por Poppendieck, se encuentra:",
+   "options": [
+    "Decidir tan pronto como sea posible.",
+    "Eliminar el desperdicio.",
+    "Colaboración entre negocio y desarrolladores."
+   ],
+   "answer": 1,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 119,
+   "text": "¿Cuál de las siguientes NO es una plataforma de mensajería distribuida?",
+   "options": [
+    "Apache Kafka.",
+    "Amazon SQS.",
+    "Elasticsearch."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": false
+  },
+  {
+   "number": 120,
+   "text": "De los siguientes elija cuál es el documento que, entre otros aspectos, recoge los compromisos de calidad asumidos por los órganos administrativos de cara a ciudadanos y usuarios.",
+   "options": [
+    "La carta de servicios.",
+    "El reglamento interno.",
+    "El informe anual de gestión."
+   ],
+   "answer": 0,
+   "block": "b2",
+   "reserve": false
+  },
+  {
+   "number": 121,
+   "text": "Señale la respuesta incorrecta respecto a la posibilidad de las entidades locales de establecer tasas por la realización de las siguientes actividades administrativas de competencia local:",
+   "options": [
+    "Para la celebración de los matrimonios en forma civil.",
+    "Limpieza de la vía pública.",
+    "Autorización para utilizar en placas, patentes y otros distintivos análogos el escudo de la entidad local."
+   ],
+   "answer": 1,
+   "block": "b1",
+   "reserve": true
+  },
+  {
+   "number": 122,
+   "text": "Respecto a las solicitudes de iniciación en los procedimientos de responsabilidad patrimonial, según el artículo 67 de la Ley 39/2015, de 1 de octubre de Procedimiento Administrativo Común de las Administraciones Públicas, el derecho a reclamar prescribirá:",
+   "options": [
+    "Al año de producido el hecho o el acto que motive la indemnización.",
+    "Son correctas las respuestas a) y c).",
+    "Al año de manifestarse el efecto lesivo que motive la indemnización."
+   ],
+   "answer": 1,
+   "block": "b1",
+   "reserve": true
+  },
+  {
+   "number": 123,
+   "text": "De acuerdo con el enfoque ACID, entre las características principales que debe poseer una transacción se encuentra:",
+   "options": [
+    "Confidencialidad.",
+    "Disponibilidad.",
+    "Aislamiento."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": true
+  },
+  {
+   "number": 124,
+   "text": "¿Qué indica la vista INFORMATION_SCHEMA en un catálogo de una base de datos?",
+   "options": [
+    "La información sobre los permisos de sistema operativo.",
+    "Los datos que pueden modificarse directamente en las bases de datos.",
+    "Descriptores de objetos del catálogo, accesibles como si fueran datos SQL."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": true
+  },
+  {
+   "number": 125,
+   "text": "¿Cómo funciona un ataque de inyección de SQL?",
+   "options": [
+    "Se produce un ataque de inyección de SQL cuando, de manera fraudulenta, se produce una descarga masiva de datos de una base de datos.",
+    "Se produce un ataque de inyección de SQL cuando se tiene acceso a las credenciales de un usuario usando código SQL.",
+    "Se produce un ataque de inyección de SQL cuando se inserta o \"inyecta\" código SQL invasor dentro del código SQL programado, a fin de alterar el funcionamiento normal del programa y lograr así que se ejecute la porción de código \"invasor\" incrustado, en la base de datos."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": true
+  },
+  {
+   "number": 126,
+   "text": "¿Cuál de las siguientes afirmaciones representa la Regla 9 de Codd para los gestores relacionales?",
+   "options": [
+    "Los cambios que puedan producirse en la base de datos a nivel lógico no deben implicar cambios en las aplicaciones que consultan o manipulan datos.",
+    "Los cambios que puedan producirse en la base de datos a nivel físico no deben implicar cambios en las aplicaciones que consultan o manipulan los datos.",
+    "Las restricciones de integridad deben poder especificarse en un sublenguaje relacional y almacenarse en el catálogo, no siendo por tanto necesario implementarlas en las aplicaciones que manipulan los datos."
+   ],
+   "answer": 0,
+   "block": "b3",
+   "reserve": true
+  },
+  {
+   "number": 127,
+   "text": "¿Qué tipo de aprendizaje automático se utiliza comúnmente para clasificar documentos no estructurados?",
+   "options": [
+    "Aprendizaje por refuerzo.",
+    "Aprendizaje federado.",
+    "Aprendizaje supervisado."
+   ],
+   "answer": 2,
+   "block": "b3",
+   "reserve": true
+  },
+  {
+   "number": 128,
+   "text": "¿Qué tecnología permite la conexión directa entre dispositivos personales sin necesidad de un punto de acceso intermedio?",
+   "options": [
+    "Bluetooth.",
+    "Ethernet.",
+    "Wifi tradicional."
+   ],
+   "answer": 0,
+   "block": "b4",
+   "reserve": true
+  },
+  {
+   "number": 129,
+   "text": "Según el Real Decreto 1494/2007 sobre condiciones básicas para el acceso de las personas con discapacidad a las tecnologías, productos y servicios relacionados con la sociedad de la información y medios de comunicación social, ¿cuál de los siguientes elementos tecnológicos pueden integrar las herramientas de accesibilidad a la televisión digital?",
+   "options": [
+    "La conversión de voz a texto plano para favorecer la navegabilidad de los menús de configuración, las guías electrónicas de programación y los servicios interactivos y otros contenidos textuales.",
+    "Las aplicaciones de reconocimiento de colores y tonos para efectuar operaciones de configuración, de solicitud de información de las guías electrónicas de programación o empleo de servicios interactivos u otros contenidos textuales.",
+    "La ergonomía en los receptores de televisión digital, así como en todos sus dispositivos asociados, y, muy especialmente, en el diseño de los mandos a distancia."
+   ],
+   "answer": 2,
+   "block": "b2",
+   "reserve": true
+  }
+ ]
+}
